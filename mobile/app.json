@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "JobChArts",
+    "slug": "jobcharts",
+    "version": "0.1.0",
+    "sdkVersion": "49.0.0",
+    "platforms": ["ios","android","web"],
+    "ios": {
+      "bundleIdentifier": "com.jobcharts.jobcharts"
+    },
+    "android": {
+      "package": "com.jobcharts.jobcharts"
+    },
+    "extra": {
+      "apiUrl": "http://localhost:4000"
+    }
+  }
+}
